@@ -20,7 +20,7 @@ ________________________________________
 •	Language: Java
 •	Build Tool: Apache Ant (build.xml)
 •	Architecture: CLI & GUI (Swing-based UI)
-•	Database: (Add here if used — e.g., MySQL/SQLite/Embedded DB)
+•	Database: MySQL
 ________________________________________
 🚀 Getting Started
 
